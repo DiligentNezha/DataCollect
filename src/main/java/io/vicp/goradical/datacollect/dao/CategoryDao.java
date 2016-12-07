@@ -1,7 +1,7 @@
 package io.vicp.goradical.datacollect.dao;
 
 
-import io.vicp.goradical.datacollect.model.Category;
+import io.vicp.goradical.datacollect.entity.Category;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 
 import java.sql.Connection;

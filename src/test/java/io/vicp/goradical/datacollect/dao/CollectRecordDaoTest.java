@@ -1,6 +1,6 @@
 package io.vicp.goradical.datacollect.dao;
 
-import io.vicp.goradical.datacollect.model.CollectRecord;
+import io.vicp.goradical.datacollect.entity.CollectRecord;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 import org.junit.Test;
 

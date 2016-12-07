@@ -1,6 +1,6 @@
 package io.vicp.goradical.datacollect.dao;
 
-import io.vicp.goradical.datacollect.model.UserProfile;
+import io.vicp.goradical.datacollect.entity.UserProfile;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 import io.vicp.goradical.datacollect.tools.ListTool;
 

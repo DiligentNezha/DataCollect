@@ -3,7 +3,7 @@ package io.vicp.goradical.datacollect.other;
 import io.vicp.goradical.datacollect.dao.FileActorDao;
 import io.vicp.goradical.datacollect.dao.FileDirectorDao;
 import io.vicp.goradical.datacollect.main.Main;
-import io.vicp.goradical.datacollect.model.*;
+import io.vicp.goradical.datacollect.entity.*;
 import io.vicp.goradical.datacollect.tools.Test;
 
 import java.lang.reflect.Method;

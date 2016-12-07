@@ -1,8 +1,8 @@
 package io.vicp.goradical.datacollect.dao;
 
-import io.vicp.goradical.datacollect.model.CommentRecord;
-import io.vicp.goradical.datacollect.model.FileInfo;
-import io.vicp.goradical.datacollect.model.UserProfile;
+import io.vicp.goradical.datacollect.entity.CommentRecord;
+import io.vicp.goradical.datacollect.entity.FileInfo;
+import io.vicp.goradical.datacollect.entity.UserProfile;
 import org.junit.Test;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 

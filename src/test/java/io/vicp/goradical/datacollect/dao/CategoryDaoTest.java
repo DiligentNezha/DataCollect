@@ -1,6 +1,6 @@
 package io.vicp.goradical.datacollect.dao;
 
-import io.vicp.goradical.datacollect.model.Category;
+import io.vicp.goradical.datacollect.entity.Category;
 import org.junit.Test;
 
 import java.util.Map;

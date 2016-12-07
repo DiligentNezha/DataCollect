@@ -1,7 +1,7 @@
 package io.vicp.goradical.datacollect.dao;
 
-import io.vicp.goradical.datacollect.model.FileInfo;
-import io.vicp.goradical.datacollect.model.Nation;
+import io.vicp.goradical.datacollect.entity.FileInfo;
+import io.vicp.goradical.datacollect.entity.Nation;
 import org.junit.Test;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 

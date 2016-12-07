@@ -3,8 +3,8 @@ package io.vicp.goradical.datacollect.hot;
 import io.vicp.goradical.datacollect.dao.CommentRecordDao;
 import io.vicp.goradical.datacollect.dao.DaoManager;
 import io.vicp.goradical.datacollect.dao.FileInfoDao;
-import io.vicp.goradical.datacollect.model.CommentRecord;
-import io.vicp.goradical.datacollect.model.FileInfo;
+import io.vicp.goradical.datacollect.entity.CommentRecord;
+import io.vicp.goradical.datacollect.entity.FileInfo;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 
 import java.io.FileOutputStream;

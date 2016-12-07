@@ -1,7 +1,7 @@
 package io.vicp.goradical.datacollect.other;
 
-import io.vicp.goradical.datacollect.model.Nation;
-import io.vicp.goradical.datacollect.model.Type;
+import io.vicp.goradical.datacollect.entity.Nation;
+import io.vicp.goradical.datacollect.entity.Type;
 
 public class Simple<T> {
 	private T t;

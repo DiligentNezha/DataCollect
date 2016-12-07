@@ -1,6 +1,6 @@
 package io.vicp.goradical.datacollect.dao;
 
-import io.vicp.goradical.datacollect.model.DetailsInfo;
+import io.vicp.goradical.datacollect.entity.DetailsInfo;
 import io.vicp.goradical.datacollect.tools.JDBCTools;
 
 import java.sql.*;

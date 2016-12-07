@@ -1,4 +1,4 @@
-package io.vicp.goradical.datacollect.model;
+package io.vicp.goradical.datacollect.entity;
 
 public class FileDirector {
 	private int fileDirectorId;
